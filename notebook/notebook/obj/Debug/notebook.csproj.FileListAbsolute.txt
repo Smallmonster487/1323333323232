@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\notebook\notebook\bin\Debug\notebook.exe.config
+C:\Users\User\Desktop\notebook\notebook\bin\Debug\notebook.exe
+C:\Users\User\Desktop\notebook\notebook\bin\Debug\notebook.pdb
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\App.g.cs
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook_MarkupCompile.cache
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook_MarkupCompile.lref
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook.g.resources
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook.Properties.Resources.resources
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook.exe
+C:\Users\User\Desktop\notebook\notebook\obj\Debug\notebook.pdb
