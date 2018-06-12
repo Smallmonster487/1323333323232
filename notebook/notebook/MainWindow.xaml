@@ -8,8 +8,8 @@
         Title="Notebook" Height="350" Width="525">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="510"></ColumnDefinition>
-            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition Width="1" ></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
         <!--右邊選單-->
@@ -43,7 +43,7 @@
 
         <!--左邊打字區-->
         <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="150 0 0 0">
-            <TextBox x:Name="Textarea" AcceptsReturn="True" TextWrapping="Wrap" Background="White" Width="360"></TextBox>
+            <TextBox x:Name="Textarea" AcceptsReturn="True" TextWrapping="Wrap" Background="White" ></TextBox>
         </ScrollViewer>
         
     </Grid>
